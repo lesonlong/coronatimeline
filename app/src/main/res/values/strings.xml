@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lộ Trình Corona</string>
+    <string name="screen_timeline_title">Lộ Trình Cá Nhân</string>
+    <string name="screen_statistic_title">Thống Kê</string>
+    <string name="screen_face_mask_title">Khẩu Trang</string>
+    <string name="screen_knowledge_title">Kiến Thức</string>
+    <string name="item_timeline_title">Lộ Trình</string>
+    <string name="item_statistic_title">Thống Kê</string>
+    <string name="item_face_mask_title">Khẩu Trang</string>
+    <string name="item_knowledge_title">Kiến Thức</string>
+    <string name="btn_see_map">Mở Trên Bản Đồ</string>
+    <string name="location_permission_denied">Truy cập vị trí bị từ chối,\nBạn vui lòng bật truy cập vị trí để sử dụng ứng dụng.</string>
+    <string name="notification_msg">Ứng Dụng đang vẽ lộ trình của bạn.\nSẽ giúp xác định bạn có giao với lộ trình người bệnh hay không?</string>
+    <string name="service_not_available">Service không sẵn sàng</string>
+    <string name="invalid_lat_long_used">Toạ độ đang dùng không có thật</string>
+    <string name="no_address_found">Không tìm thấy địa chỉ</string>
+    <string name="address_text">"Tên: %1$s \n Địa chỉ: %2$s \n Thời gian: %3$tr"</string>
+    <string name="no_place">Tên địa điểm chưa xác định</string>
+    <string name="stay_to">-&#160;&#160;&#160;%s</string>
+    <string name="user_id" translatable="false">123</string>
+    <string name="firebase_path" translatable="false">timelines</string>
+    <string name="firebase_email" translatable="false">lesonlongn@gmail.com</string>
+    <string name="firebase_password" translatable="false">P@ss4now!</string>
+</resources>

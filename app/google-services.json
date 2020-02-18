@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855756998625",
+    "firebase_url": "https://coronatimeline.firebaseio.com",
+    "project_id": "coronatimeline",
+    "storage_bucket": "coronatimeline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855756998625:android:374760dde5052b6e9e74a0",
+        "android_client_info": {
+          "package_name": "com.longle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855756998625-bdhnuk4830addg47atu35o6oukt05nuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.longle",
+            "certificate_hash": "ee57ff14c539df277abe847397ad381b41ffd1c7"
+          }
+        },
+        {
+          "client_id": "855756998625-of630of4l9auem803b1166elhabvnkg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJRaOPXX2y90Y6vRI6i-KnIHs9G6XfNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855756998625-of630of4l9auem803b1166elhabvnkg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

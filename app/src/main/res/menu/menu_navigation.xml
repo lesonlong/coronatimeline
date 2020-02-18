@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/timeline_fragment"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/item_timeline_title" />
+  <!--  <item
+        android:id="@+id/face_mask_fragment"
+        android:icon="@drawable/ic_exposure_plus_1_black_24dp"
+        android:title="@string/item_face_mask_title" />-->
+    <item
+        android:id="@+id/statistic_fragment"
+        android:icon="@drawable/ic_exposure_plus_1_black_24dp"
+        android:title="@string/item_statistic_title" />
+
+    <item
+        android:id="@+id/knowledge_fragment"
+        android:icon="@drawable/ic_exposure_plus_2_black_24dp"
+        android:title="@string/item_knowledge_title" />
+
+</menu>

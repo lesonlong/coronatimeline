@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/timeline_fragment">
+
+    <fragment
+        android:id="@+id/timeline_fragment"
+        android:name="com.longle.ui.timeline.TimelineFragment"
+        android:label="@string/screen_timeline_title"
+        tools:layout="@layout/fragment_timeline"/>
+
+   <!-- <fragment
+        android:id="@+id/face_mask_fragment"
+        android:name="com.longle.ui.facemask.FacemaskFragment"
+        android:label="@string/screen_face_mask_title"
+        tools:layout="@layout/fragment_statistic"/>-->
+
+    <fragment
+        android:id="@+id/statistic_fragment"
+        android:name="com.longle.ui.statistic.StatisticFragment"
+        android:label="@string/screen_statistic_title"
+        tools:layout="@layout/fragment_knowledge"/>
+
+    <fragment
+        android:id="@+id/knowledge_fragment"
+        android:name="com.longle.ui.knowledge.KnowledgeFragment"
+        android:label="@string/screen_knowledge_title"
+        tools:layout="@layout/fragment_knowledge"/>
+
+</navigation>
